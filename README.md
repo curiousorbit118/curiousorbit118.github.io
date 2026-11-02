@@ -1,2 +1,2 @@
-# curiousorbit118.github.io
+index.github.io
 The curious orbit
